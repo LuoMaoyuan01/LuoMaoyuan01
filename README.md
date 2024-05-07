@@ -5,7 +5,7 @@
 * 🎓 Pursuing a Bachelor's of Computing
 * 📜 Current CGPA : 4.13 (Distinction)
 * 💎 Full-stack development experience in Node.js (MERN stack).
-* 📧 [LinkedIn](https://linkedin.com/in/juin-lee)
+* 📧 [LinkedIn](https://www.linkedin.com/in/luo-maoyuan-742107207/)
 
 ## Education
   * Aug 2022 - Aug 2026: Bachelor of Computing (Computer Science) from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
