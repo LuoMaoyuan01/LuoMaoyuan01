@@ -3,7 +3,7 @@
 
 * 🙋 Hi! I am Luo Maoyuan.
 * 🎓 Pursuing a Bachelor's of Computing
-* 📜 Current CGPA : 4.13 (Distinction)
+* 📜 Current CGPA : 4.16 (Distinction)
 * 💎 Full-stack development experience in Node.js (MERN stack).
 * 📧 [LinkedIn](https://www.linkedin.com/in/luo-maoyuan-742107207/)
 
